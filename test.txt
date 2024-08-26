@@ -1,0 +1,3 @@
+q
+clear
+cat test.txt
